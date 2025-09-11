@@ -79,7 +79,7 @@ android {
 
     namespace "com.first"
     defaultConfig {
-        applicationId "com.first"
+        applicationId "com.YO"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
